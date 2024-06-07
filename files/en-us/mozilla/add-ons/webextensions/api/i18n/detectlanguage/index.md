@@ -24,7 +24,7 @@ let detectingLanguages = browser.i18n.detectLanguage(
 ### Parameters
 
 - `text`
-  - : `string`. User input string to be translated.
+  - : `string`. User input string to be analyzed to determine its language.
 
 ### Return value
 
